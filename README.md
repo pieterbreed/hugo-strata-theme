@@ -106,3 +106,4 @@ This theme is released under the Creative Commons Attribution 3.0 Unported  Lice
 ## Annotations
 
 Thanks to [Steve Francia](//github.com/spf13) for creating [Hugo](//gohugo.io) and the awesome community around the project.
+ 
